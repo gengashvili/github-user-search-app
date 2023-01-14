@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github-user-search-app/static/css/main.ee285f7c.css",
+    "main.js": "/github-user-search-app/static/js/main.8ea3858b.js",
+    "static/media/icon-sun.svg": "/github-user-search-app/static/media/icon-sun.f28a8996f9959c40bdff14d5a43c08d8.svg",
+    "static/media/icon-website-dark.svg": "/github-user-search-app/static/media/icon-website-dark.e136c1347b6b18012be9a782a3422357.svg",
+    "static/media/icon-website.svg": "/github-user-search-app/static/media/icon-website.b7923f6c1dae9717c079c60d8a5c82e5.svg",
+    "static/media/icon-company-dark.svg": "/github-user-search-app/static/media/icon-company-dark.7f11902111c78ad02f898c13f50977ba.svg",
+    "static/media/icon-company.svg": "/github-user-search-app/static/media/icon-company.6f78ffb334b191c8ed54d0c2a6f7cc25.svg",
+    "index.html": "/github-user-search-app/index.html",
+    "static/media/icon-twitter-dark.svg": "/github-user-search-app/static/media/icon-twitter-dark.464f2e7586a03df40bd357d2ba2a52c0.svg",
+    "static/media/icon-twitter.svg": "/github-user-search-app/static/media/icon-twitter.f6a2a695fbb260b28a9fd67dd4179ea5.svg",
+    "static/media/icon-moon.svg": "/github-user-search-app/static/media/icon-moon.cce754cec46d095fd3ce12737f38694b.svg",
+    "static/media/icon-search.svg": "/github-user-search-app/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
+    "static/media/icon-location-dark.svg": "/github-user-search-app/static/media/icon-location-dark.c0eb5e56d5ff6b1104328b9dbbf4b51c.svg",
+    "static/media/icon-location.svg": "/github-user-search-app/static/media/icon-location.f11c5487a9922cbad40a27e8cc1cfaee.svg",
+    "main.ee285f7c.css.map": "/github-user-search-app/static/css/main.ee285f7c.css.map",
+    "main.8ea3858b.js.map": "/github-user-search-app/static/js/main.8ea3858b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee285f7c.css",
+    "static/js/main.8ea3858b.js"
+  ]
+}
