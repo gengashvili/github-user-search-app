@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Space Mono", monospace;
+}
+.App{
+    width: 730px;
+    margin: 144px auto 0;
+}
+@media (max-width: 768px) {
+    .App{
+        width:573px;
+    }
+}
+@media (max-width: 375px) {
+    .App{
+        width:327px;
+    }
+}
